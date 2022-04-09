@@ -1,0 +1,40 @@
+/* CODE MADE BY JIKAISH !*/
+/* DONT DELETE  ANYTHING HERE ONLY CHANGE FOR THE CODE WORK !*/
+
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Rubik:wght@500&display=swap');
+body {
+    background-color: #F7C4CB;
+}
+/*Links color*/
+.link { text-decoration: none; color: #F74747; }
+.link:link { text-decoration: none; color: #F74747; }
+.link:visited { text-decoration: none; color: #F74747; }
+.link:hover { text-decoration: none; color: #ff9d9d; }
+.link:active { text-decoration: none; color: #ff9d9d; }
+
+.font {
+    font-family: 'Patua One', cursive !important;
+}
+
+.title {
+    padding-top: 70px;
+    padding-left: 60px;
+     text-align: left;
+}
+
+.title-img {
+    border-radius: 60px;
+}
+
+.description {
+    margin: 24px 24px 0;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    background-color: #ff9d9d;
+    border-color: #F74747;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    font-family: 'Rubik', sans-serif;
+}
