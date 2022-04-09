@@ -12,29 +12,52 @@ body {
 .link:hover { text-decoration: none; color: #ff9d9d; }
 .link:active { text-decoration: none; color: #ff9d9d; }
 
-.font {
+.patua {
     font-family: 'Patua One', cursive !important;
 }
 
-.title {
-    padding-top: 70px;
-    padding-left: 60px;
-     text-align: left;
+.rubik {
+    font-family: 'Rubik', sans-serif;
 }
 
-.title-img {
-    border-radius: 60px;
-}
-
-.description {
-    margin: 24px 24px 0;
-    display: inline-block;
-    text-align: center;
-    width: 150px;
+.box {
     background-color: #ff9d9d;
     border-color: #F74747;
     border-style: solid;
     border-width: 1px;
     border-radius: 6px;
-    font-family: 'Rubik', sans-serif;
+    margin: 24px 24px 0;
+    text-align: center;
+}
+
+
+.big-title {
+    padding-top: 70px;
+    padding-left: 40px;
+     text-align: left;
+     padding-bottom: 15px;
+     padding-top: 10px;
+     width: 350px;
+}
+
+.big-title-img {
+    border-radius: 60px;
+    width: 64px;
+    height: 64px;
+}
+
+.title {
+    font-size: 40px;
+} 
+
+.litle-description {
+    width: 150px;
+}
+
+.long-description {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
 }
