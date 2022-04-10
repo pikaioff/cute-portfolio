@@ -50,8 +50,7 @@ body {
     border-width: 1px;
     border-radius: 6px;
     text-align: center;
-    width: 350px;
-    width: 350px;
+    width: auto;
     margin: auto;
     padding: 10px;
 }
