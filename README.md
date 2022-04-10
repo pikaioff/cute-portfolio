@@ -7,4 +7,4 @@
 
 🔧 A free portfolio for developers !
 
-🔧 Feel free to clone the repo and edit/use it !
+🔧 Feel free to clone the repo and edit/publish it !
