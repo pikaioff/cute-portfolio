@@ -9,8 +9,8 @@ body {
 .link { text-decoration: none; color: #F74747; }
 .link:link { text-decoration: none; color: #F74747; }
 .link:visited { text-decoration: none; color: #F74747; }
-.link:hover { text-decoration: none; color: #ff9d9d; }
-.link:active { text-decoration: none; color: #ff9d9d; }
+.link:hover { text-decoration: none; color: #f9c1c1; }
+.link:active { text-decoration: none; color: #f9c1c1; }
 
 .patua {
     font-family: 'Patua One', cursive !important;
@@ -28,16 +28,21 @@ body {
     border-radius: 6px;
     margin: 24px 24px 0;
     text-align: center;
+    box-sizing: border-box;
 }
 
 
 .big-title {
-    padding-top: 70px;
-    padding-left: 40px;
      text-align: left;
-     padding-bottom: 15px;
-     padding-top: 10px;
-     width: 350px;
+     padding-right: 60px;
+     padding-left: 60px;
+     padding-bottom: 40px;
+     padding-top: 40px;
+     width: 450px;
+}
+
+.big-title-text {
+    font-size: 65px;
 }
 
 .big-title-img {
@@ -47,17 +52,28 @@ body {
 }
 
 .title {
-    font-size: 40px;
+    font-size: 80px;
 } 
 
 .litle-description {
-    width: 150px;
+    font-size: 25px;
+    text-align: left;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 350px;
 }
 
 .long-description {
     text-align: center;
 }
 
+.about-me {
+    font-size: 25px;
+}
+
 ul {
     list-style: none;
+    font-size: 30px;
 }
