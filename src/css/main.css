@@ -26,6 +26,19 @@ body {
     border-color: #F74747;
     border-style: solid;
     border-width: 1px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border-radius: 6px;
+    margin: 24px 24px 0;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.second-box {
+    background-color: #ff9d9d;
+    border-color: #F74747;
+    border-style: solid;
+    border-width: 1px;
     border-radius: 6px;
     margin: 24px 24px 0;
     text-align: center;
@@ -38,12 +51,12 @@ body {
 }
 
 .big-title {
-     text-align: left;
+     text-align: center;
      padding-right: 60px;
      padding-left: 60px;
      padding-bottom: 40px;
      padding-top: 40px;
-     width: 450px;
+
 }
 
 .big-title-text {
@@ -52,8 +65,8 @@ body {
 
 .big-title-img {
     border-radius: 60px;
-    width: 64px;
-    height: 64px;
+    width: 120px;
+    height: 120px;
 }
 
 .title {
@@ -62,12 +75,14 @@ body {
 
 .litle-description {
     font-size: 25px;
-    text-align: left;
-    padding-right: 40px;
-    padding-left: 40px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    text-align: center;
+    padding-right: 40px !important;
+    padding-left: 40px !important;
+    padding-bottom: 30px;
+    padding-top: 30px;
     width: 350px;
+    margin: auto;
+   padding: 10px;
 }
 
 .long-description {
