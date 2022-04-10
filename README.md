@@ -8,4 +8,4 @@
 
 🔧 A free portfolio for developers !
 
-🔧 Feel free to clone the repo and use it !
+🔧 Feel free to clone the repo and edit/use it !
