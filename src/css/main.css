@@ -1,8 +1,9 @@
 /* CODE MADE BY JIKAISH !*/
-/* DONT DELETE  ANYTHING HERE ONLY CHANGE FOR THE CODE WORK !*/
+/* DONT DELETE  ANYTHING HERE YOU CAN ONLY CHANGE FOR THE CODE WORK PERFECTLY !*/
 
 @import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Rubik:wght@500&display=swap');
 
+/* Smooth scroll when go to id */
 html {
     scroll-behavior: smooth;
   }
@@ -26,6 +27,7 @@ body {
     font-family: 'Rubik', sans-serif;
 }
 
+/* Div settings */
 .box {
     background-color: #ff9d9d;
     border-color: #F74747;
@@ -54,18 +56,19 @@ body {
     padding: 10px;
 }
 
+/* Titles, descriptions, ul and footer settings */
+.big-title {
+    text-align: center;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+
+}
+
 .sub-title {
     font-size: 55px;
     color: rgb(202, 77, 173);
-}
-
-.big-title {
-     text-align: center;
-     padding-right: 60px;
-     padding-left: 60px;
-     padding-bottom: 40px;
-     padding-top: 40px;
-
 }
 
 .big-title-text {
@@ -117,3 +120,6 @@ footer {
 .footer-text {
     font-size: 22px;
 }
+
+/* CODE MADE BY JIKAISH !*/
+/* DONT DELETE  ANYTHING HERE YOU CAN ONLY CHANGE FOR THE CODE WORK PERFECTLY !*/
