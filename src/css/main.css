@@ -109,3 +109,11 @@ ul {
     list-style: none;
     font-size: 30px;
 }
+
+footer {
+    display: block;
+  }
+
+.footer-text {
+    font-size: 22px;
+}
