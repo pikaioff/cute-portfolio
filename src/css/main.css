@@ -12,6 +12,7 @@ body {
 .link:hover { text-decoration: none; color: #f9c1c1; }
 .link:active { text-decoration: none; color: #f9c1c1; }
 
+/* Font family called */
 .patua {
     font-family: 'Patua One', cursive !important;
 }
@@ -31,6 +32,10 @@ body {
     box-sizing: border-box;
 }
 
+.sub-title {
+    font-size: 55px;
+    color: rgb(202, 77, 173);
+}
 
 .big-title {
      text-align: left;
