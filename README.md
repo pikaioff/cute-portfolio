@@ -7,6 +7,6 @@
 
 🔧 A free portfolio for developers !
 
-🔧 Feel free to clone the repo and edit/publish it !
+🔧 Feel free to clone the repo and edit/publish it, test it [here](https://jikaish.github.io/cute-portfolio/) !
 
 ❓ Need help ? Join my [Discord](https://discord.gg/52Nc5Qry4t)
