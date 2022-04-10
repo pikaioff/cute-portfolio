@@ -1,5 +1,5 @@
 # Cute Portfolio
-# AT THIS TIME THE PORTFOLIO IS IN BETA SO NOT FINISH IM WORKING ON EVERYDAY I WANT TO MAKE A REALLY COOL THING !
+# AT THIS TIME THE PORTFOLIO IS IN BETA (0.2.0) SO NOT FINISH IM WORKING ON EVERYDAY I WANT TO MAKE A REALLY COOL THING !
   <br />
     <p>
     <a href="https://jikaish.tk"><img src="https://cdn.discordapp.com/attachments/945777061891567657/962699790926360697/unknown.png" alt="JikaiSH" /></a>
