@@ -2,7 +2,7 @@
 # AT THIS TIME THE PORTFOLIO IS IN BETA SO NOT FINISH IM WORKING ON EVERYDAY I WANT TO MAKE A REALLY COOL THING !
   <br />
     <p>
-    <a href="https://jikaish.tk"><img src="https://cdn.discordapp.com/attachments/945777061891567657/962697106836045864/unknown.png" alt="JikaiSH" /></a>
+    <a href="https://jikaish.tk"><img src="https://cdn.discordapp.com/attachments/945777061891567657/962699790926360697/unknown.png" alt="JikaiSH" /></a>
   </p>
 
 🔧 A free portfolio for developers !
