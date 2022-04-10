@@ -31,12 +31,14 @@ body {
     border-color: #F74747;
     border-style: solid;
     border-width: 1px;
-    padding-bottom: 30px;
-    padding-top: 30px;
     border-radius: 6px;
     margin: 24px 24px 0;
     text-align: center;
     box-sizing: border-box;
+}
+
+.box-not-down {
+    margin-bottom: 25px;
 }
 
 .second-box {
