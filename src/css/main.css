@@ -2,6 +2,11 @@
 /* DONT DELETE  ANYTHING HERE ONLY CHANGE FOR THE CODE WORK !*/
 
 @import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Rubik:wght@500&display=swap');
+
+html {
+    scroll-behavior: smooth;
+  }
+
 body {
     background-color: #F7C4CB;
 }
@@ -71,6 +76,9 @@ body {
     height: 120px;
 }
 
+.nav-image {
+    border-radius: 60px;
+}
 .title {
     font-size: 80px;
 } 
