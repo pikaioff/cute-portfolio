@@ -8,3 +8,5 @@
 🔧 A free portfolio for developers !
 
 🔧 Feel free to clone the repo and edit/publish it !
+
+❓ Need help ? Join my [Discord](https://discord.gg/52Nc5Qry4t)
